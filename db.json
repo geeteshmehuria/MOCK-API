@@ -1314,5 +1314,15 @@
         }
       ]
     }
+  ],
+  "gettouch": [
+    {
+      "name": "Aarav Kumar",
+      "review": "Our family loves Dr. Miller. She is knowledgeable, kind, and always puts the children at ease during appointments."
+    },
+    {
+      "name": "Amit Verma",
+      "review": "He is not only an Excellent Doctor, he is simple, superb Human being, Sober, approachable, a Great Social Worker, friendly approach with smiling face with his selfless service with his selfless services. Always amazing treatment. He is an extraordinary intelligent Doctor with human values"
+    }
   ]
 }
