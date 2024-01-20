@@ -1322,7 +1322,15 @@
     },
     {
       "name": "Amit Verma",
-      "review": "He is not only an Excellent Doctor, he is simple, superb Human being, Sober, approachable, a Great Social Worker, friendly approach with smiling face with his selfless service with his selfless services. Always amazing treatment. He is an extraordinary intelligent Doctor with human values"
+      "review": "He is not only an Excellent Doctor, he is simple, superb Human being, Sober, approachable, a Great Social Worker, friendly approach with smiling face with his selfless service with his selfless services. Always amazing treatment."
+    },
+    {
+      "name": "Sanya Sharma",
+      "review": "Dr. Johnson is the best! She takes the time to listen to my concerns and explains everything thoroughly. The staff is friendly and efficient. Highly recommend!"
+    },
+    {
+      "name": "Rahul Singh",
+      "review": "I've been a patient of Dr. Smith for years. His expertise and caring nature make him a top-notch doctor. The clinic is well-managed, and the support staff is excellent."
     }
   ]
 }
